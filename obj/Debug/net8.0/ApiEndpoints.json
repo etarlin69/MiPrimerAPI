@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MiPrimerAPI.Controllers.ExternalController",
+    "Method": "GetUsers",
+    "RelativePath": "api/External/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerAPI.Controllers.ProductController",
+    "Method": "GetAll",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
